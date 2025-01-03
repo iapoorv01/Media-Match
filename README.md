@@ -4,7 +4,7 @@
 
 **Media Match** is an innovative AI-driven tool designed to efficiently detect and remove duplicate images and videos from your system. By leveraging perceptual hashing and advanced AI technology, Media Match goes beyond conventional file-based duplicate finders, identifying even the slightest differences between media files.
 
-Whether you're looking to free up space or streamline your media library, Media Match provides a powerful solution for identifying duplicates with unmatched accuracy.
+Whether you're looking to free up space or streamline your media library, Media Match provides a powerful solution for identifying duplicates with unmatched accuracy.  ![FIRST OVERVIEW](systemoverview1.png)
 
 ## Why Choose Media Match?
 
@@ -13,7 +13,7 @@ Whether you're looking to free up space or streamline your media library, Media 
 - **Customizable Options**: Easily choose whether to delete duplicates automatically or manually confirm which files to keep.
 - **Efficient Storage Management**: Save storage space by identifying and removing redundant media files, especially when dealing with large collections of images or videos.
 - **User-Friendly Interface**: With a simple, intuitive UI powered by Tkinter (instead of Kivy in this case), Media Match ensures a smooth and effortless experience.
-- **Tooltips & Progress Updates**: Get real-time progress tracking and helpful tooltips that guide you through the process.
+- **Tooltips & Progress Updates**: Get real-time progress tracking and helpful tooltips that guide you through the process. ![FIRST OVERVIEW](systemoverview4.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ Whether you're looking to free up space or streamline your media library, Media 
 - **Manual/Automatic Duplicate Deletion**: Choose whether to delete duplicates automatically or review them before removal.
 - **AI-Powered Accuracy**: The AI ensures that even files with minor changes are flagged as duplicates, giving you peace of mind that no unnecessary files remain.
 - **Popup Confirmation for Deletion**: A user-friendly confirmation process before deleting any file, allowing for backups and ensuring no important media is lost.
-- **Backup Only if Needed**: A customizable setting that enables backup only when necessary, giving you complete control.
+- **Backup Only if Needed**: A customizable setting that enables backup only when necessary, giving you complete control.   ![FIRST OVERVIEW](systemoverview3.png)
 - **Delete Backup After Confirmation**: Once backups are confirmed as safe, you can choose to delete them automatically, further optimizing storage space.
 
 ## Getting Started
@@ -85,7 +85,7 @@ For Android users, download and install the `.apk` file from the releases page, 
 # Start the desktop scanning process
 python MediaMatch.py
 ```
-
+![FIRST OVERVIEW](systemoverview2.png)
 Once started, the tool will scan your system and prompt you to take actions on duplicates it finds. Simply click on "Delete" or "Skip" as needed. You'll also have options to backup duplicates before deletion.
 
 ---
@@ -106,4 +106,4 @@ For any questions, suggestions, or issues, feel free to open an issue on GitHub,
 
 With **Media Match**, you’re not just managing your files—you're optimizing your storage with the power of AI, ensuring a smooth and clutter-free media experience.
 
----
+
